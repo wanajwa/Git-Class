@@ -1,2 +1,3 @@
 #Git Class
-I am Wan najwa
+I am Wan Najwa
+software student
